@@ -21,14 +21,14 @@ I don't know any programming language. My idea is just for implementation.
 — NO need for Auto-Type in KeePassXC/KeePass 2 to simulate human keystrokes for the entire text, but simply paste the main password into the browser and program field, and insert a random set of characters after each password character into empty virtual space during the entire process.
 
 **For example:**
-Password "MYPASSWORD" will look like this:
-xxxMxxxYxxxPxxxAxxxSxxxSxxxWxxxOxxxRxxxDxxx
+Password **"MYPASSWORD"** will look like this:
+xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
 
 **Translated with AES system like this:**
 T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
 **Breakdown of each letter for clarity:**
-T:3v=$ -M- #S9=:z -Y- 4%:=Em -P- r5.&Z= -A- T3.d># -S- <aF7;~ -S- 9$f:>Y -W- 3dA!;~ -O- %4.?vZ -R- p3*:&T -D- *$kS,2.
+T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
 
 Naturally, it's not necessary for all junk characters to be in the same quantity; they will have random quantity and character sets.
 
@@ -69,14 +69,14 @@ I haven't seen exactly this solution anywhere.
 — НЕ нужно, чтобы Auto-Type в KeePassXC/KeePass 2 симулировал человеческие нажатия для всего текста, а просто вставил весь основной пароль в поле браузера и программы, а рандомный набор символов после каждого символа из пароля вставлял в пустое виртуальное пространство во время всего процесса.
 
 **К примеру:**
-Пароль "MYPASSWORD", будет выглядеть вот так:
-xxxMxxxYxxxPxxxAxxxSxxxSxxxWxxxOxxxRxxxDxxx
+Пароль **"MYPASSWORD"**, будет выглядеть вот так:
+xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxxx
 
 **В переводе вот так с системой AES:**
 T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
 **Расшифровка каждой буквы для наглядности:**
-T:3v=$ -M- #S9=:z -Y- 4%:=Em -P- r5.&Z= -A- T3.d># -S- <aF7;~ -S- 9$f:>Y -W- 3dA!;~ -O- %4.?vZ -R- p3*:&T -D- *$kS,2.
+T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
 
 Естественно, не обязательно, чтобы все мусорные символы находились в одинаковом количестве, они будут с рандомным количеством и набором символов.
 
