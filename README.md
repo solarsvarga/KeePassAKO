@@ -50,7 +50,6 @@ M{20 characters}Y{15 characters}P{28 characters}A{12 characters}S{35 characters}
 - Fast input time since keystroke simulation is not used.
 - Each password character protected by individual 3-39 character junk  
 - Keylogger gets giant character set
-- Phishing automatically gets junk characters
 - Even RAM encryption not needed — junk is the protection, as no one will see the needed password in this mess.
 - Universal for all forms (passwords/cards/2FA)
 
@@ -99,7 +98,6 @@ M{символов 20}Y{символов 15}P{символов 28}A{символ
 - Время ввода быстрое, так как не используется симуляция нажатия.
 - Каждый символ пароля защищён индивидуальным мусором 3-39 символов  
 - Кейлоггер получает гигантский набор символов
-- Фишинг автоматически получит мусор из символов
 - Даже шифрование RAM не нужно — мусор и есть защита, так как никто в этой каше не увидит нужный пароль.
 - Универсально для всех форм (пароли/карты/2FA)
 
