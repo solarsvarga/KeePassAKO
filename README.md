@@ -22,10 +22,10 @@ I don't know any programming language. My idea is just for implementation.
 
 **For example:**
 Password **"MYPASSWORD"** will look like this:
-xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
+— xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
 
 **Translated with AES system like this:**
-T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
+— T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
 **Breakdown of each letter for clarity:**
 T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
@@ -70,13 +70,13 @@ I haven't seen exactly this solution anywhere.
 
 **К примеру:**
 Пароль **"MYPASSWORD"**, будет выглядеть вот так:
-xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxxx
+— xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxxx
 
 **В переводе вот так с системой AES:**
-T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
+— T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
 **Расшифровка каждой буквы для наглядности:**
-T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
+— T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
 
 Естественно, не обязательно, чтобы все мусорные символы находились в одинаковом количестве, они будут с рандомным количеством и набором символов.
 
@@ -104,4 +104,4 @@ T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$
 Возможно, это революционное решение проблемы кейлоггеров через простую вставку с умной кашей из символов после каждого символа от пароля.
 
 **Автор предложения:** SolarSvarga https://github.com/solarsvarga
-Прям в точности такое решение не видел ни у кого.
+— Прям в точности такое решение не видел ни у кого.
