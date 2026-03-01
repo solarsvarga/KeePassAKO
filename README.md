@@ -22,13 +22,13 @@ I don't know any programming language. My idea is just for implementation.
 
 **For example:**
 Password "MYPASSWORD" will look like this: <br>
-xxxMxxxYxxxPxxxAxxxSxxxSxxxWxxxOxxxRxxxDxxx
+xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
 
 **Translated with AES system like this:** <br>
 T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
 **Breakdown of each letter for clarity:** <br>
-T:3v=$ -M- #S9=:z -Y- 4%:=Em -P- r5.&Z= -A- T3.d># -S- <aF7;~ -S- 9$f:>Y -W- 3dA!;~ -O- %4.?vZ -R- p3*:&T -D- *$kS,2.
+T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
 
 Naturally, it's not necessary for all junk characters to be in the same quantity; they will have random quantity and character sets.
 
@@ -71,13 +71,13 @@ I haven't seen exactly this solution anywhere.
 
 **К примеру:**
 Пароль "MYPASSWORD", будет выглядеть вот так: <br>
-xxxMxxxYxxxPxxxAxxxSxxxSxxxWxxxOxxxRxxxDxxx
+xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
 
 **В переводе вот так с системой AES:** <br>
 T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
 **Расшифровка каждой буквы для наглядности:** <br>
-T:3v=$ -M- #S9=:z -Y- 4%:=Em -P- r5.&Z= -A- T3.d># -S- <aF7;~ -S- 9$f:>Y -W- 3dA!;~ -O- %4.?vZ -R- p3*:&T -D- *$kS,2.
+T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
 
 Естественно, не обязательно, чтобы все мусорные символы находились в одинаковом количестве, они будут с рандомным количеством и набором символов.
 
