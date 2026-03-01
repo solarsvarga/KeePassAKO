@@ -10,7 +10,7 @@ I don't know any programming language. My idea is just for implementation.
 ---
 
 ## 🇺🇸 English {#english}
-**(РУССКИЙ ТЕКСТ НИЖЕ)**
+**Russian text below**
 
 **Hello, KeePassXC/KeePass 2 developers!**
 
@@ -21,14 +21,14 @@ I don't know any programming language. My idea is just for implementation.
 — NO need for Auto-Type in KeePassXC/KeePass 2 to simulate human keystrokes for the entire text, but simply paste the main password into the browser and program field, and insert a random set of characters after each password character into empty virtual space during the entire process.
 
 **For example:**
-Password **"MYPASSWORD"** will look like this:
-— xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
+Password "MYPASSWORD" will look like this: <br>
+xxxMxxxYxxxPxxxAxxxSxxxSxxxWxxxOxxxRxxxDxxx
 
-**Translated with AES system like this:**
-— T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
+**Translated with AES system like this:** <br>
+T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
-**Breakdown of each letter for clarity:**
-T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
+**Breakdown of each letter for clarity:** <br>
+T:3v=$ -M- #S9=:z -Y- 4%:=Em -P- r5.&Z= -A- T3.d># -S- <aF7;~ -S- 9$f:>Y -W- 3dA!;~ -O- %4.?vZ -R- p3*:&T -D- *$kS,2.
 
 Naturally, it's not necessary for all junk characters to be in the same quantity; they will have random quantity and character sets.
 
@@ -43,7 +43,8 @@ Naturally, it's not necessary for all junk characters to be in the same quantity
 
 **What each participant sees:**
 Site: MYPASSWORD  
-Keylogger: M{20 characters}Y{15 characters}P{28 characters}A{12 characters}S{35 characters}S{19 characters}W{24 characters}O{17 characters}R{3 characters}D{7 characters}
+Keylogger: <br> 
+M{20 characters}Y{15 characters}P{28 characters}A{12 characters}S{35 characters}S{19 characters}W{24 characters}O{17 characters}R{3 characters}D{7 characters}
 
 **Advantages:**
 - Fast input time since keystroke simulation is not used.
@@ -55,7 +56,7 @@ Keylogger: M{20 characters}Y{15 characters}P{28 characters}A{12 characters}S{35 
 
 This might be a revolutionary solution to the keylogger problem through simple paste with smart junk character porridge after each password character.
 
-**Author of the proposal:** SolarSvarga [https://github.com/solarsvarga](https://github.com/solarsvarga)
+**Author of the proposal:** SolarSvarga [https://github.com/solarsvarga](https://github.com/solarsvarga) <br>
 I haven't seen exactly this solution anywhere.
 
 ## 🇷🇺 Русский {#русский}
@@ -69,14 +70,14 @@ I haven't seen exactly this solution anywhere.
 — НЕ нужно, чтобы Auto-Type в KeePassXC/KeePass 2 симулировал человеческие нажатия для всего текста, а просто вставил весь основной пароль в поле браузера и программы, а рандомный набор символов после каждого символа из пароля вставлял в пустое виртуальное пространство во время всего процесса.
 
 **К примеру:**
-Пароль **"MYPASSWORD"**, будет выглядеть вот так:
-— xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxxx
+Пароль "MYPASSWORD", будет выглядеть вот так: <br>
+xxxMxxxYxxxPxxxAxxxSxxxSxxxWxxxOxxxRxxxDxxx
 
-**В переводе вот так с системой AES:**
-— T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
+**В переводе вот так с системой AES:** <br>
+T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
 
-**Расшифровка каждой буквы для наглядности:**
-— T:3v=$ **M** #S9=:z **Y** 4%:=Em **P** r5.&Z= **A** T3.d># **S** <aF7;~ **S** 9$f:>Y **W** 3dA!;~ **O** %4.?vZ **R** p3*:&T **D** *$kS,2.
+**Расшифровка каждой буквы для наглядности:** <br>
+T:3v=$ -M- #S9=:z -Y- 4%:=Em -P- r5.&Z= -A- T3.d># -S- <aF7;~ -S- 9$f:>Y -W- 3dA!;~ -O- %4.?vZ -R- p3*:&T -D- *$kS,2.
 
 Естественно, не обязательно, чтобы все мусорные символы находились в одинаковом количестве, они будут с рандомным количеством и набором символов.
 
@@ -91,7 +92,8 @@ I haven't seen exactly this solution anywhere.
 
 **Что видит каждый участник:**
 Сайт: MYPASSWORD  
-Кейлоггер: M{символов 20}Y{символов 15}P{символов 28}A{символов 12}S{символов 35}S{символов 19}W{символов 24}O{символов 17}R{символов 3}D{символов 7}
+Кейлоггер: <br> 
+M{символов 20}Y{символов 15}P{символов 28}A{символов 12}S{символов 35}S{символов 19}W{символов 24}O{символов 17}R{символов 3}D{символов 7}
 
 **Преимущества:**
 - Время ввода быстрое, так как не используется симуляция нажатия.
@@ -103,5 +105,5 @@ I haven't seen exactly this solution anywhere.
 
 Возможно, это революционное решение проблемы кейлоггеров через простую вставку с умной кашей из символов после каждого символа от пароля.
 
-**Автор предложения:** SolarSvarga https://github.com/solarsvarga
-— Прям в точности такое решение не видел ни у кого.
+**Автор предложения:** SolarSvarga https://github.com/solarsvarga <br>
+Прям в точности такое решение не видел ни у кого.
