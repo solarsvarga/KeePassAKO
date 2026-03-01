@@ -10,7 +10,7 @@ I don't know any programming language. My idea is just for implementation.
 ---
 
 ## 🇺🇸 English {#english}
-Russian text below
+**Russian text below**
 
 **Hello, KeePassXC/KeePass 2 developers!**
 
