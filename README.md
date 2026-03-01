@@ -22,7 +22,7 @@ I don't know any programming language. My idea is just for implementation.
 
 **For example:**
 Password "MYPASSWORD" will look like this: <br>
-xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
+xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxx**W**xxx**O**xxx**R**xxx**D**xxx
 
 **Translated with AES system like this:** <br>
 T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
@@ -71,7 +71,7 @@ I haven't seen exactly this solution anywhere.
 
 **К примеру:**
 Пароль "MYPASSWORD", будет выглядеть вот так: <br>
-xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxxW**xxx**Oxxx**R**xxx**D**xxx
+xxx**M**xxx**Y**xxx**P**xxx**A**xxx**S**xxx**S**xxx**W**xxx**O**xxx**R**xxx**D**xxx
 
 **В переводе вот так с системой AES:** <br>
 T:3v=$M#S9=:zY4%:=EmPr5.&Z=AT3.d>#S<aF7;~S9$f:>YW3dA!;~O%4.?vZRp3*:&TD*$kS,2
